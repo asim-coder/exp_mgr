@@ -1,0 +1,37 @@
+.text-input {
+	width: 100%;
+	padding-left: 17px;
+	margin-bottom: 30px;
+	margin-top: 20px;
+}
+#myDiv {
+	padding-top: 15px;
+	padding-bottom: 30px;
+}
+
+
+button::-moz-focus-inner {
+  border: 0;
+}
+
+.topcoat-textarea {
+	font-size: 30px;
+}
+.topcoat-text-input {
+	width: 94%;
+	height: 70px;
+}
+.text-input p {
+	font-size: 30px;
+}
+
+h1 {
+	font-size: 36px !important;
+	padding: 12px;
+}
+
+.topcoat-button {
+	font-size: 30px;	
+	width: 94%;
+	height: 70px;
+}
